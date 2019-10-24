@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "equipment_info": [
+  {
+    "partNumber": "PN125",
+    "fab": "FabI",
+    "numSerie": "SN00001",
+    "estado": "Correcto",
+    "ubicacion": "Montado en sistema",
+    "nrIncidencias": "10"
   }
+    ]
 }
