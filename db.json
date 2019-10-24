@@ -1,9 +1,13 @@
 
 {
-  "posts": [
+  "equipment_info": [
     {
-      "id": 1,
-      "title": "hello"
+      "pn": "PN12345",
+      "fab": "FAB1",
+      "numSerie": "NS0001",
+      "estado": "Activo",
+      "ubicacion": "Montado en sistema",
+      "nrIncidencias": 3
     }
   ],
   "profile": {
