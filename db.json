@@ -2,8 +2,8 @@
 {
   "equipment_info": [
     {
-      "pn": "PN12345",
-      "fab": "FAB1",
+      "partNumber": "PN12345",
+      "fabricante": "FAB1",
       "numSerie": "NS0001",
       "estado": "Activo",
       "ubicacion": "Montado en sistema",
