@@ -1,12 +1,28 @@
+
 {
   "equipment_info": [
-  {
-    "partNumber": "PN125",
+    {
+       "partNumber": "PN125",
     "fab": "FabI",
     "numSerie": "SN00001",
     "estado": "Correcto",
     "ubicacion": "Montado en sistema",
     "nrIncidencias": "10"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-    ]
 }
