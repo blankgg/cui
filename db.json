@@ -1,13 +1,23 @@
 
 {
-  "equipment_info": [
+  "E280116060000206119C5D2E": [
     {
-      "partNumber": "PN12345",
+      "partNumber": "PN_E280",
       "fabricante": "FAB1",
       "numSerie": "NS0001",
       "estado": "Activo",
       "ubicacion": "Montado en sistema",
-      "nrIncidencias": "3"
+      "nrIncidencias": "0"
+    }
+  ],
+  "E200502491040161198045F2": [
+    {
+      "partNumber": "PN_E2005",
+      "fabricante": "FAB1",
+      "numSerie": "NS0002",
+      "estado": "Mantenimiento",
+      "ubicacion": "Montado en sistema",
+      "nrIncidencias": "1"
     }
   ],
   "profile": {
