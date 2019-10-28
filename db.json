@@ -1,6 +1,6 @@
 
 {
-  "E280116060000206119C5D2E": [
+  "E2801170000002069F8CF92C": [
     {
       "partNumber": "PN_E280",
       "fabricante": "FAB1",
@@ -10,7 +10,7 @@
       "nrIncidencias": "0"
     }
   ],
-  "E200502491040161198045F2": [
+  "E2801170000002069F8CF92B": [
     {
       "partNumber": "PN_E2005",
       "fabricante": "FAB1",
@@ -19,8 +19,5 @@
       "ubicacion": "Montado en sistema",
       "nrIncidencias": "1"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
