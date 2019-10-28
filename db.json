@@ -2,21 +2,53 @@
 {
   "E2801170000002069F8CF92C": [
     {
-      "partNumber": "PN_E280",
-      "fabricante": "FAB1",
-      "numSerie": "NS0001",
+      "partNumber": "0022421122700",
+      "fabricante": "0177B",
+      "numSerie": "15060045",
       "estado": "Activo",
-      "ubicacion": "Montado en sistema",
+      "ubicacion": "Montado",
       "nrIncidencias": "0"
     }
   ],
   "E2801170000002069F8CF92B": [
     {
-      "partNumber": "PN_E2005",
-      "fabricante": "FAB1",
-      "numSerie": "NS0002",
+      "partNumber": "0013540000001",
+      "fabricante": "0177B",
+      "numSerie": "16160027",
+      "estado": "Activo",
+      "ubicacion": "Montado",
+      "nrIncidencias": "0"
+    }
+  ],
+  "E2801170000002076B183153": [
+    {
+      "partNumber": "0013540000001",
+      "fabricante": "0177B",
+      "numSerie": "16160047",
+      "estado": "Activo",
+      "ubicacion": "Montado",
+      "nrIncidencias": "0"
+    }
+  ]
+  ,
+  "E2801170000002069F8CF92D": [
+    {
+      "partNumber": "0015920000800",
+      "fabricante": "0177B",
+      "numSerie": "15150014",
       "estado": "Mantenimiento",
-      "ubicacion": "Montado en sistema",
+      "ubicacion": "Almacen",
+      "nrIncidencias": "2"
+    }
+  ]
+  ,
+  "E2801170000002076B183050": [
+    {
+      "partNumber": "0017240000100",
+      "fabricante": "0177B",
+      "numSerie": "16160036",
+      "estado": "Mantenimiento",
+      "ubicacion": "Montado",
       "nrIncidencias": "1"
     }
   ]
