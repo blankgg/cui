@@ -56,5 +56,16 @@
       "ubicacion": "Montado",
       "nrIncidencias": "1"
     }
+  ],
+  "1PMC40N0-SLK3R01 CN S17248522503416":[
+  {
+      "tagID":"1PMC40N0-SLK3R01 CN S17248522503416",
+      "partNumber": "0017240000100",
+      "fabricante": "0177B",
+      "numSerie": "16160036",
+      "estado": "Mantenimiento",
+      "ubicacion": "Montado",
+      "nrIncidencias": "1"
+    }
   ]
 }
