@@ -1,6 +1,6 @@
 
 {
-  "E2801170000002069F8CF92C": [
+  "E2801170000002069F8CF92C": 
     {
       "tagID":"E2801170000002069F8CF92C",
       "partNumber": "0022421122700",
@@ -10,8 +10,8 @@
       "ubicacion": "Montado",
       "nrIncidencias": "0"
     }
-  ],
-  "E2801170000002069F8CF92B": [
+  ,
+  "E2801170000002069F8CF92B": 
     {
       "tagID":"E2801170000002069F8CF92B",
       "partNumber": "0013540000001",
@@ -21,8 +21,8 @@
       "ubicacion": "Montado",
       "nrIncidencias": "0"
     }
-  ],
-  "E2801170000002076B183153": [
+  ,
+  "E2801170000002076B183153": 
     {
       "tagID":"E2801170000002076B183153",
       "partNumber": "0013540000001",
@@ -32,9 +32,9 @@
       "ubicacion": "Montado",
       "nrIncidencias": "0"
     }
-  ]
+  
   ,
-  "E2801170000002069F8CF92D": [
+  "E2801170000002069F8CF92D": 
     {
        "tagID":"E2801170000002069F8CF92D",
       "partNumber": "0015920000800",
@@ -44,10 +44,10 @@
       "ubicacion": "Almacén",
       "nrIncidencias": "2"
     }
-  ]
+  
   ,
 
-  "4083DEF59FC1":[
+  "4083DEF59FC1":
   {
       "tagID":"4083DEF59FC1",
       "partNumber": "0017240000100",
@@ -57,5 +57,5 @@
       "ubicacion": "Montado",
       "nrIncidencias": "1"
     }
-  ]
+  
 }
