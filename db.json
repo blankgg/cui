@@ -55,7 +55,7 @@
       "estado": "Mantenimiento",
       "ubicacion": "Almacén",
       "nrIncidencias": "2",
-      "incidencias":":[ 
+      "incidencias":[ 
                 { "codigo":"123", 
                 "titulo":"incidencia bla bla" },
                 { "codigo":"456", 
