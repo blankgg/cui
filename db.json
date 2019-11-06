@@ -54,7 +54,14 @@
       "versFirmware": "2.112", 
       "estado": "Mantenimiento",
       "ubicacion": "Almacén",
-      "nrIncidencias": "2"
+      "nrIncidencias": "2",
+      "incidencias":":[ 
+                { "codigo":"123", 
+                "titulo":"incidencia bla bla" },
+                { "codigo":"456", 
+                "titulo":"indicen….." }  
+ ] 
+
     }
   
   ,
