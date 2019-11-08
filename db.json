@@ -78,11 +78,11 @@
       "estado": "Mantenimiento",
       "ubicacion": "Montado",
       "nrIncidencias": "1",
-    "incidencias":[ 
-                { "codigo":"123", 
-                "titulo":"incidencia bla bla" },
-                { "codigo":"456", 
-                "titulo":"indicen….." }  
-    }
+     "incidencias":[ 
+                { "codigo":"INC001", 
+                "titulo":"Incidencia por bloqueo del elemento. Existe riesgo de perder información" },
+                { "codigo":"INC002", 
+                "titulo":"El sensor XXX ha reportado un error en este componente. Revisar todos los elementos." }  
+ ] 
   
 }
