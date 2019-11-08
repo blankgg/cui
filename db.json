@@ -77,7 +77,12 @@
       "versFirmware": "2.112", 
       "estado": "Mantenimiento",
       "ubicacion": "Montado",
-      "nrIncidencias": "1"
+      "nrIncidencias": "1",
+    "incidencias":[ 
+                { "codigo":"123", 
+                "titulo":"incidencia bla bla" },
+                { "codigo":"456", 
+                "titulo":"indicen….." }  
     }
   
 }
